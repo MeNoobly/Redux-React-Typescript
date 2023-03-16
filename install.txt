@@ -1,0 +1,2 @@
+﻿npx create-react-app . --template typescript
+npm i @types/react-redux redux react-redux redux-thunk axios @reduxjs/toolkit redux-devtools-extension
